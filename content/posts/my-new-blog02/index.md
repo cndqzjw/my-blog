@@ -16,6 +16,9 @@ tags:
   - tag2
 # nolastmod: true
 # math: true
+# 🚀 核心大招：在这里手动写死你希望在主页卡片显示的文字（不要包含任何图片代码）
+summary: "I'm coming. I'm coming. I'm coming."
+
 draft: false
 ---
 
