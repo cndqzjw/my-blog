@@ -18,7 +18,8 @@ tags:
 # math: true
 # 🚀 核心大招：在这里手动写死你希望在主页卡片显示的文字（不要包含任何图片代码）
 summary: "I'm coming. I'm coming. I'm coming."
-
+# 💡 如果上面不生效，就把下面这行也加上（部分主题认 description）
+description: "I'm coming. I'm coming. I'm coming."
 draft: false
 ---
 
