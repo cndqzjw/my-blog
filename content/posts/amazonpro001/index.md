@@ -18,6 +18,8 @@ tags:
 draft: false
 ---
 
+<!--more-->
+
 - Inspired by the iconic "la ola" wave among the crowd, the adidas FIFA 
   World Cup 26 Trionda League Soccer Ball features a seamless TSBE surface
    for precise touch and reduced water uptake. A butyl bladder ensures 
@@ -28,8 +30,6 @@ draft: false
 - FIFA QUALITY AND OFFICIALLY LICENSED: Officially licensed by FIFA, the 
   ball passed FIFA tests on circumference, weight, rebound and water 
   absorption
-
-<!--more-->
 
 ![](2026-06-18-19-36-43-image.png)
 
