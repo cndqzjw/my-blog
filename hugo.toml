@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'DaDa'
 theme = 'dream'
+
+[params]
+lightTheme = 'emerald'
+darkTheme = 'forest'
