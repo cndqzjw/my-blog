@@ -43,7 +43,7 @@ draft: false
 
 如果你希望一台咖啡机同时覆盖工作日早餐、周末慢咖啡和来客分享，这台很稳。它的优势是容量大、操作简单、性价比高，非常符合 best coffee maker under 100 的实用逻辑。对于刚从咖啡店消费转向家庭咖啡的人，它是最不容易踩坑的入门方案之一。
 
-购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/dp/B0CUI3200P?tag=cndqzjw20-20)
+购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/s?k=Cuisinart+DCC-3200P1&tag=cndqzjw20-20)
 
 ## 2. Ninja CE251：best coffee maker under 100 的紧凑型程序化方案
 
@@ -64,7 +64,7 @@ draft: false
 
 预算在 $100 左右，希望机器看起来干净利落、按键逻辑简单、容量足够一到两个人使用，就优先考虑它。它更像是一台长期陪伴型设备，不会因为功能花哨而增加学习成本。对追求稳定节奏的人来说，这是很典型的 best coffee maker under 100 方向。
 
-购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/dp/B0NINJA251?tag=cndqzjw20-20)
+购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/s?k=Ninja+CE251&tag=cndqzjw20-20)
 
 ## 3. Hamilton Beach FlexBrew Trio：best coffee maker under 100 里最灵活的双模式咖啡机
 
@@ -85,7 +85,7 @@ draft: false
 
 如果你不想把家庭咖啡固定在一种冲煮方式上，这台会更适合。它的核心价值不是极致专业，而是兼容多种生活场景。对于工作日喝一杯、周末冲一壶、偶尔还要为同事或家人准备咖啡的人，它属于很实用的中间选项。
 
-购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/dp/B0FLEXBTR3?tag=cndqzjw20-20)
+购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/s?k=Hamilton+Beach+FlexBrew+Trio&tag=cndqzjw20-20)
 
 ## 4. De'Longhi Stilosa EC260BK：家用咖啡机里的意式升级方案
 
@@ -106,7 +106,7 @@ draft: false
 
 它不是最省事的，但很适合对味道有要求的人。如果你平时常点拿铁、摩卡或美式，又想减少每天外卖咖啡的消费，这台机器会让“在家做一杯像样的意式咖啡”变得可行。对于希望从入门跨到进阶的人，它是非常合理的家用咖啡机升级路线。
 
-购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/dp/B0DELONGHI?tag=cndqzjw20-20)
+购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/s?k=De%27Longhi+Stilosa+EC260BK&tag=cndqzjw20-20)
 
 ## 5. Nespresso Vertuo Plus：best coffee maker under 100 之外的高效率单杯方案
 
@@ -127,7 +127,7 @@ draft: false
 
 它更像是把咖啡店的一部分搬回家，尤其适合早晨时间紧、又不想妥协咖啡品质的用户。虽然价格已经高于 best coffee maker under 100 的核心区间，但如果你愿意为便利和一致性付费，这台机器会让高频喝咖啡这件事变得更轻松。
 
-购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/dp/B0VERTUO10?tag=cndqzjw20-20)
+购买按钮：[查看亚马逊最新价格 →](https://www.amazon.com/s?k=Nespresso+Vertuo+Plus&tag=cndqzjw20-20)
 
 ## 产品对比表
 
