@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>自驾游 on DaDa</title><link>https://example.org/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</link><description>Recent content in 自驾游 on DaDa</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2026 11:40:00 +0800</lastBuildDate><atom:link href="https://example.org/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon 露营椅和折叠桌推荐：营地休息、野餐和自驾出行的实用装备</title><link>https://example.org/posts/amazon-camping-chair-table/</link><pubDate>Sat, 20 Jun 2026 11:40:00 +0800</pubDate><guid>https://example.org/posts/amazon-camping-chair-table/</guid><description>&lt;p&gt;露营椅和折叠桌是营地体验中最容易被低估的装备。真正开始户外活动后，人们往往会发现，坐得舒不舒服、桌面稳不稳、收纳方不方便，直接影响到吃饭、聊天、整理装备和休息的体验。对于露营、野餐和自驾出行，这类装备属于非常实用的高频品类。&lt;/p&gt;</description></item><item><title>Amazon 露营帐篷选购指南：家庭露营、周末营地和自驾出行的实用清单</title><link>https://example.org/posts/amazon-camping-tent-setup/</link><pubDate>Sat, 20 Jun 2026 11:00:00 +0800</pubDate><guid>https://example.org/posts/amazon-camping-tent-setup/</guid><description>&lt;p&gt;露营帐篷是户外装备里最核心的基础品类之一。对于计划周末露营、家庭出游或者自驾营地停留的人来说，帐篷不只是一个遮风挡雨的空间，更直接影响夜间休息、保暖性、通风性和出行负担。挑选时，真正值得看的是结构稳定性、收纳体积、搭建效率和季节适配度。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自驾游 on DaDa</title>
+    <link>https://example.org/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</link>
+    <description>Recent content in 自驾游 on DaDa</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jun 2026 11:40:00 +0800</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon 露营椅和折叠桌推荐：营地休息、野餐和自驾出行的实用装备</title>
+      <link>https://example.org/posts/amazon-camping-chair-table/</link>
+      <pubDate>Sat, 20 Jun 2026 11:40:00 +0800</pubDate>
+      <guid>https://example.org/posts/amazon-camping-chair-table/</guid>
+      <description>&lt;p&gt;露营椅和折叠桌是营地体验中最容易被低估的装备。真正开始户外活动后，人们往往会发现，坐得舒不舒服、桌面稳不稳、收纳方不方便，直接影响到吃饭、聊天、整理装备和休息的体验。对于露营、野餐和自驾出行，这类装备属于非常实用的高频品类。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon 露营帐篷选购指南：家庭露营、周末营地和自驾出行的实用清单</title>
+      <link>https://example.org/posts/amazon-camping-tent-setup/</link>
+      <pubDate>Sat, 20 Jun 2026 11:00:00 +0800</pubDate>
+      <guid>https://example.org/posts/amazon-camping-tent-setup/</guid>
+      <description>&lt;p&gt;露营帐篷是户外装备里最核心的基础品类之一。对于计划周末露营、家庭出游或者自驾营地停留的人来说，帐篷不只是一个遮风挡雨的空间，更直接影响夜间休息、保暖性、通风性和出行负担。挑选时，真正值得看的是结构稳定性、收纳体积、搭建效率和季节适配度。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

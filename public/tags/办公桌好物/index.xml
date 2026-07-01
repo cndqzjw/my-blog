@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>办公桌好物 on DaDa</title><link>https://example.org/tags/%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%A5%BD%E7%89%A9/</link><description>Recent content in 办公桌好物 on DaDa</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://example.org/tags/%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%A5%BD%E7%89%A9/index.xml" rel="self" type="application/rss+xml"/><item><title>2026 Amazon 居家办公好物清单：提升效率的 8 件桌面装备</title><link>https://example.org/posts/amazon-office-setup/</link><pubDate>Fri, 19 Jun 2026 09:00:00 +0800</pubDate><guid>https://example.org/posts/amazon-office-setup/</guid><description>&lt;p&gt;如果你正在搭建一个更高效的居家办公环境，那么真正值得买的，不是看起来花哨的摆件，而是能稳定提升专注力、舒适度和工作流的工具。Amazon 上最适合做居家办公升级的商品，通常集中在台灯、支架、收纳、键鼠、理线和人体工学配件这几个方向。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>办公桌好物 on DaDa</title>
+    <link>https://example.org/tags/%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%A5%BD%E7%89%A9/</link>
+    <description>Recent content in 办公桌好物 on DaDa</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jun 2026 09:00:00 +0800</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%A5%BD%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 Amazon 居家办公好物清单：提升效率的 8 件桌面装备</title>
+      <link>https://example.org/posts/amazon-office-setup/</link>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0800</pubDate>
+      <guid>https://example.org/posts/amazon-office-setup/</guid>
+      <description>&lt;p&gt;如果你正在搭建一个更高效的居家办公环境，那么真正值得买的，不是看起来花哨的摆件，而是能稳定提升专注力、舒适度和工作流的工具。Amazon 上最适合做居家办公升级的商品，通常集中在台灯、支架、收纳、键鼠、理线和人体工学配件这几个方向。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
