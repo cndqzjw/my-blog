@@ -6,3 +6,13 @@ theme = 'dream'
 [params]
 lightTheme = 'emerald'
 darkTheme = 'forest'
+
+headerTitle = 'DaDa'
+logoSVG = """
+<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"100%\" height=\"100%\" role=\"img\" aria-label=\"Logo\">
+  <circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#10b981\" />
+  <path d=\"M22 26L30 32L22 38\" stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />
+  <path d=\"M42 26L34 32L42 38\" stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />
+  <path d=\"M26 20L38 44\" stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\" />
+</svg>
+"""
