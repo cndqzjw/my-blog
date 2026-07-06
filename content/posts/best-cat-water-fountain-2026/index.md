@@ -1,7 +1,7 @@
 ---
 title: "Best Cat Water Fountain in 2026"
-date: 2026-07-07T09:00:00+08:00
-lastmod: 2026-07-07T09:00:00+08:00
+date: 2026-07-07T00:00:00+08:00
+lastmod: 2026-07-07T00:00:00+08:00
 description: "Discover the best cat water fountain in 2026, compared for pump noise, filter life, and real multi-cat household use."
 slug: best-cat-water-fountain-2026
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Best Weighted Blanket for Adults in 2026"
-date: 2026-07-07T09:40:00+08:00
-lastmod: 2026-07-07T09:40:00+08:00
+date: 2026-07-07T00:40:00+08:00
+lastmod: 2026-07-07T00:40:00+08:00
 description: "Discover the best weighted blanket for adults in 2026, compared for cooling fabric, even weight distribution, and real nightly sleep use."
 slug: best-weighted-blanket-for-adults-2026
 categories:

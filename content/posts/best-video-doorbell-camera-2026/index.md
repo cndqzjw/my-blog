@@ -1,7 +1,7 @@
 ---
 title: "Best Video Doorbell Camera in 2026"
-date: 2026-07-07T10:00:00+08:00
-lastmod: 2026-07-07T10:00:00+08:00
+date: 2026-07-07T01:00:00+08:00
+lastmod: 2026-07-07T01:00:00+08:00
 description: "Discover the best video doorbell camera in 2026, compared for no-subscription storage, night vision, and real front-porch security use."
 slug: best-video-doorbell-camera-2026
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Best Red Light Therapy Device for Face in 2026"
-date: 2026-07-07T10:20:00+08:00
-lastmod: 2026-07-07T10:20:00+08:00
+date: 2026-07-07T01:20:00+08:00
+lastmod: 2026-07-07T01:20:00+08:00
 description: "Discover the best red light therapy device for face in 2026, compared for wavelength accuracy, treatment time, and real at-home skincare use."
 slug: best-red-light-therapy-device-for-face-2026
 categories:

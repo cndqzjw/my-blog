@@ -1,7 +1,7 @@
 ---
 title: "Best Robot Vacuum for Pet Hair in 2026"
-date: 2026-07-07T09:20:00+08:00
-lastmod: 2026-07-07T09:20:00+08:00
+date: 2026-07-07T00:20:00+08:00
+lastmod: 2026-07-07T00:20:00+08:00
 description: "Discover the best robot vacuum for pet hair in 2026, compared for suction power, tangle-free brushes, and real multi-floor cleaning use."
 slug: best-robot-vacuum-for-pet-hair-2026
 categories:
