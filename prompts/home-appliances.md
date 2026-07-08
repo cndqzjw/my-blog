@@ -51,4 +51,4 @@
 - [产品A] vs [产品B]: which is better for allergies or pet hair?
 
 ### 已发布过的相关产品类型（避免重复选题）
-coffee maker under $100（注：此篇更偏 kitchen 小家电，归类可再确认）、robot vacuum for pet hair。可延伸方向：air purifier、humidifier、dehumidifier、space heater、window AC unit。
+coffee maker under $100（注：此篇更偏 kitchen 小家电，归类可再确认）、robot vacuum for pet hair、air purifier for allergies（2026-07 新增）。可延伸方向：humidifier、dehumidifier、space heater、window AC unit。

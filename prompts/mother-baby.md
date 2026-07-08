@@ -49,4 +49,4 @@
 - [产品A] vs [产品B]: which is better for newborns?
 
 ### 已发布过的相关产品类型（避免重复选题）
-baby feeding essentials、baby play & learning、baby sleep setup、baby travel gear。可延伸方向：baby monitor、high chair、baby carrier、stroller、baby gate、diaper bag。
+baby feeding essentials、baby play & learning、baby sleep setup、baby travel gear、baby monitor for newborns（2026-07 新增）。可延伸方向：high chair、baby carrier、stroller、baby gate、diaper bag。

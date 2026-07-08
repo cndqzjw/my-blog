@@ -51,4 +51,4 @@
 - Standing desk vs ergonomic chair: which matters more for posture?
 
 ### 已发布过的相关产品类型（避免重复选题）
-office boost、office setup 综合好物清单（注：amazon-kitchen-organization 当前误标为 home-office，实际应归类 kitchen）。可延伸方向：office chair、standing desk、monitor arm、desk lamp、footrest、cable management。
+office boost、office setup 综合好物清单（注：amazon-kitchen-organization 当前误标为 home-office，实际应归类 kitchen）、standing desk for small spaces（2026-07 新增）。可延伸方向：office chair、monitor arm、desk lamp、footrest、cable management。

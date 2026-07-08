@@ -49,4 +49,4 @@
 - [产品A] vs [产品B]: which is better for backpacking?
 
 ### 已发布过的相关产品类型（避免重复选题）
-camping tent、sleeping bag、hiking backpack、trekking poles + headlamp、camping chair + folding table、travel essentials 收纳清单、world cup fan kit（观赛好物）。可延伸方向：camp stove、cooler/ice chest、hammock、portable power station、rain jacket、water filter。
+camping tent、sleeping bag、hiking backpack、trekking poles + headlamp、camping chair + folding table、travel essentials 收纳清单、world cup fan kit（观赛好物）、portable power station for camping（2026-07 新增）。可延伸方向：camp stove、cooler/ice chest、hammock、rain jacket、water filter。
