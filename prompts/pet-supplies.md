@@ -49,4 +49,4 @@
 - [产品A] vs [产品B]: which is better for multi-pet households?
 
 ### 已发布过的相关产品类型（避免重复选题）
-cat water fountain、automatic cat litter box、robot vacuum for pet hair（2026-07 新增）、dog crate、pet grooming kit、automatic pet feeder、pet carrier、interactive cat toy（2026-07-10 新增）。可延伸方向：dog harness、cat scratching post/cat tree、pet stroller、dog cooling mat、pet hair remover for furniture。
+cat water fountain、automatic cat litter box、robot vacuum for pet hair（2026-07 新增）、dog crate、pet grooming kit、automatic pet feeder、pet carrier、interactive cat toy（2026-07-10 新增）、dog harness for large dogs、cat tree for multiple cats（2026-07-11 新增）。可延伸方向：pet stroller、dog cooling mat、pet hair remover for furniture。
