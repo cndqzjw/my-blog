@@ -71,6 +71,11 @@
 | 2026-07-17 | PETLIBRO vs WOPET: Which Automatic Feeder Is Right for You | petlibro vs wopet automatic feeder | pet-supplies (Pet Tech) | petlibro-vs-wopet-automatic-feeder-2026 | |
 | 2026-07-17 | Best GPS Tracker for Cats in 2026 | best gps tracker for cats | pet-supplies (Pet Tech) | best-gps-tracker-for-cats-2026 | |
 | 2026-07-17 | How to Stop Your Dog From Chewing Its GPS Tracker Collar | stop dog from chewing gps tracker collar | pet-supplies (Pet Tech) | stop-dog-chewing-gps-tracker-collar-2026 | |
+| 2026-07-18 | Best Coffee Grinder for Home Use in 2026 | best coffee grinder for home use | kitchen (Home Coffee) | best-coffee-grinder-for-home-2026 | |
+| 2026-07-18 | Best Milk Frother for Lattes and Cappuccinos in 2026 | best milk frother for lattes and cappuccinos | kitchen (Home Coffee) | best-milk-frother-for-lattes-and-cappuccinos-2026 | |
+| 2026-07-18 | Best Pour-Over Coffee Maker Under $50 in 2026 | best pour over coffee maker under 50 | kitchen (Home Coffee) | best-pour-over-coffee-maker-under-50-2026 | |
+| 2026-07-18 | Nespresso vs Keurig: Which Pod Machine Is Right for You | nespresso vs keurig | kitchen (Home Coffee) | nespresso-vs-keurig-pod-coffee-machine-2026 | |
+| 2026-07-18 | Why Does Coffee Taste Bitter? Grinder and Brew Fixes | why does coffee taste bitter | kitchen (Home Coffee) | why-coffee-tastes-bitter-fixes-2026 | |
 
 ## Pet Tech 垂直领域覆盖进度（品类路线图第 1 项）
 
@@ -78,4 +83,13 @@
 2026-07-17 新增：预算向长尾（Best Pet Camera Under $50）、榜单型智能猫门（Best Smart Cat Door，补齐此前只有对比文缺核心榜单的空缺）、
 喂食器品牌对比（PETLIBRO vs WOPET）、猫用 GPS 场景长尾（Best GPS Tracker for Cats）、问题解决型反向内链文（How to Stop Your Dog From Chewing Its GPS Tracker Collar，链接回猫用 GPS 文章）。
 剩余可拓展方向：Pet Tech 与已发布的 dog crate / harness / carrier / cat tree / interactive toy 之间的问题解决型反向内链文章仍有空间（如"如何为爱啃咬的狗选智能项圈"已完成，可继续做喂食器/摄像头相关的问题解决型）。
-建议明日：Pet Tech 已覆盖 15+ 篇，可评估是否已做透（榜单+场景+预算+对比+问题解决五种角度均已覆盖多次），考虑横向切入 Home Coffee 垂直（该领域已有 6 篇早期文章，可先查缺补漏而非重新开始）。
+Pet Tech 已覆盖 15+ 篇（榜单+场景+预算+对比+问题解决五种角度均已覆盖多次），2026-07-18 起横向切入 Home Coffee 垂直，暂缓 Pet Tech 新增。
+
+## Home Coffee 垂直领域覆盖进度（品类路线图第 2 项）
+
+早期已有 4 篇：Best Coffee Maker Under $100、Best Drip Coffee Maker、Best Electric Kettle for Pour-Over Coffee and Tea、Best Espresso Machine for Home。
+2026-07-18 查缺补漏新增 5 篇：核心大词榜单（Best Coffee Grinder for Home Use，此前完全空缺）、场景型（Best Milk Frother for Lattes and Cappuccinos）、
+预算型（Best Pour-Over Coffee Maker Under $50）、对比型（Nespresso vs Keurig）、问题解决型反向内链文章（Why Does Coffee Taste Bitter，链回 grinder 榜单文和 drip coffee maker 文）。
+剩余可拓展方向：磨豆机场景/预算长尾（如 espresso 专用磨豆机）、保温壶/手冲套装尚未覆盖、咖啡与养生结合角度（如 low-acid coffee）、
+问题解决型可继续做"咖啡机水垢清理""咖啡豆保存"等反向内链回已发布文章。
+建议明日：继续做透 Home Coffee（磨豆机预算长尾、保温壶榜单、手冲套装场景文），或视表现数据决定是否提前切入 Small Kitchen Appliances。
