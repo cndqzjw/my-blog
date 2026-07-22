@@ -18,10 +18,10 @@ keywords:
   - rice cooker for studio apartment
   - compact rice cooker
   - best rice cooker under 6 cups
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zojirushi_Rice_Cooker_NP-RG05.jpg/960px-Zojirushi_Rice_Cooker_NP-RG05.jpg"
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zojirushi_Rice_Cooker_NP-RG05.jpg/960px-Zojirushi_Rice_Cooker_NP-RG05.jpg"
+thumbnail: "https://images.unsplash.com/photo-1569641092045-f6ec23879aef?auto=format&fit=crop&w=1400&q=80"
+cover: "https://images.unsplash.com/photo-1569641092045-f6ec23879aef?auto=format&fit=crop&w=1400&q=80"
 images:
-  - "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zojirushi_Rice_Cooker_NP-RG05.jpg/960px-Zojirushi_Rice_Cooker_NP-RG05.jpg"
+  - "https://images.unsplash.com/photo-1569641092045-f6ec23879aef?auto=format&fit=crop&w=1400&q=80"
 draft: false
 ---
 
@@ -37,7 +37,7 @@ We prioritized machines under 6 cups of cooked capacity, since that range genuin
 
 ## 1. Zojirushi NHS-06 3-Cup — Best Overall for Small Kitchens
 
-![Zojirushi NHS-06 rice cooker - compact 3-cup rice cooker built for consistent results in small households](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zojirushi_Rice_Cooker_NP-RG05.jpg/960px-Zojirushi_Rice_Cooker_NP-RG05.jpg)
+![Zojirushi NHS-06 rice cooker - compact 3-cup rice cooker built for consistent results in small households](https://images.unsplash.com/photo-1569641092045-f6ec23879aef?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 
@@ -136,7 +136,7 @@ For someone in a small kitchen who doesn't want a separate steamer or slow cooke
 
 ## 4. Cuckoo CR-0632F 6-Cup — Best if You Sometimes Cook for Guests
 
-![Cuckoo CR-0632F rice cooker - 6-cup rice cooker with fuzzy logic control for households that occasionally host guests](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rival_Rice_Cooker.jpg/960px-Rival_Rice_Cooker.jpg)
+![Cuckoo CR-0632F rice cooker - 6-cup rice cooker with fuzzy logic control for households that occasionally host guests](https://images.unsplash.com/photo-1586224227943-797b8672ba73?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 
