@@ -35,7 +35,7 @@ The best air fryer under $100 is not the one with the longest feature list — i
 
 ## 1. Ninja AF101 4-Quart Air Fryer — Best Air Fryer for Small Kitchens and Apartments
 
-![Ninja AF101 air fryer - compact crisping for small kitchens and one to two person households](https://images.unsplash.com/photo-1517098656013-01417f6b5a1e?auto=format&fit=crop&w=1400&q=80)
+![Ninja AF101 air fryer - compact crisping for small kitchens and one to two person households](https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 

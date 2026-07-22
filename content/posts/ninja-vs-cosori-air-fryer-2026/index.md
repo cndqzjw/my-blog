@@ -18,10 +18,10 @@ keywords:
   - which air fryer is better ninja or cosori
   - best air fryer brand comparison
   - dual basket air fryer
-thumbnail: "https://images.unsplash.com/photo-1517098656013-01417f6b5a1e?auto=format&fit=crop&w=1400&q=80"
-cover: "https://images.unsplash.com/photo-1517098656013-01417f6b5a1e?auto=format&fit=crop&w=1400&q=80"
+thumbnail: "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1400&q=80"
+cover: "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1400&q=80"
 images:
-  - "https://images.unsplash.com/photo-1517098656013-01417f6b5a1e?auto=format&fit=crop&w=1400&q=80"
+  - "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1400&q=80"
 draft: false
 ---
 
@@ -37,7 +37,7 @@ We matched models by price tier so the comparison stays fair, rather than pittin
 
 ## 1. Ninja AF101 4-Quart — Best for Small Kitchens
 
-![Ninja AF101 air fryer - compact single-basket air fryer built for one to two person households](https://images.unsplash.com/photo-1517098656013-01417f6b5a1e?auto=format&fit=crop&w=1400&q=80)
+![Ninja AF101 air fryer - compact single-basket air fryer built for one to two person households](https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 
