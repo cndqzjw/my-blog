@@ -18,10 +18,10 @@ keywords:
   - is a cheap slow cooker worth it
   - programmable slow cooker
   - best slow cooker for busy families
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crock_pot.jpg/960px-Crock_pot.jpg"
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crock_pot.jpg/960px-Crock_pot.jpg"
+thumbnail: "https://images.unsplash.com/photo-1629306394113-87a4547af897?auto=format&fit=crop&w=1400&q=80"
+cover: "https://images.unsplash.com/photo-1629306394113-87a4547af897?auto=format&fit=crop&w=1400&q=80"
 images:
-  - "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crock_pot.jpg/960px-Crock_pot.jpg"
+  - "https://images.unsplash.com/photo-1629306394113-87a4547af897?auto=format&fit=crop&w=1400&q=80"
 draft: false
 ---
 
@@ -37,7 +37,7 @@ Every model on this list stays under $50, so the list stays realistic instead of
 
 ## 1. Crock-Pot 6-Quart Cook & Carry — Best Overall Budget Pick
 
-![Crock-Pot 6-Quart Cook & Carry slow cooker - programmable 6-quart slow cooker with a locking lid for easy transport](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crock_pot.jpg/960px-Crock_pot.jpg)
+![Crock-Pot 6-Quart Cook & Carry slow cooker - programmable 6-quart slow cooker with a locking lid for easy transport](https://images.unsplash.com/photo-1629306394113-87a4547af897?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 
@@ -70,7 +70,7 @@ For a family that wants dinner ready when everyone gets home, the programmable t
 
 ## 2. Hamilton Beach Set 'n Forget 6-Quart — Best for Programmable Cooking
 
-![Hamilton Beach Set 'n Forget slow cooker - 6-quart programmable slow cooker with a built-in probe thermometer](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hamilton_Beach_slow_cooker_with_thermometer.jpg/960px-Hamilton_Beach_slow_cooker_with_thermometer.jpg)
+![Hamilton Beach Set 'n Forget slow cooker - 6-quart programmable slow cooker with a built-in probe thermometer](https://plus.unsplash.com/premium_photo-1718051630937-30392ca3d687?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 

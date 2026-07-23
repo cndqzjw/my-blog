@@ -18,10 +18,10 @@ keywords:
   - is a vacuum sealer worth it for freezer food
   - best vacuum sealer machine
   - vacuum sealer for sous vide
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg/960px-Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg/960px-Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
+thumbnail: "https://images.unsplash.com/photo-1694743070224-5040e9b23725?auto=format&fit=crop&w=1400&q=80"
+cover: "https://images.unsplash.com/photo-1694743070224-5040e9b23725?auto=format&fit=crop&w=1400&q=80"
 images:
-  - "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg/960px-Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
+  - "https://images.unsplash.com/photo-1694743070224-5040e9b23725?auto=format&fit=crop&w=1400&q=80"
 draft: false
 ---
 
@@ -37,7 +37,7 @@ We looked at three practical standards: suction strength and consistency across 
 
 ## 1. FoodSaver V4400 — Best Overall for Everyday Meal Prep
 
-![FoodSaver V4400 vacuum sealer - dual-pump vacuum sealer used for portioning and freezing bulk meat and produce](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg/960px-Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg)
+![FoodSaver V4400 vacuum sealer - dual-pump vacuum sealer used for portioning and freezing bulk meat and produce](https://images.unsplash.com/photo-1694743070224-5040e9b23725?auto=format&fit=crop&w=1400&q=80)
 
 **Core parameters**
 
